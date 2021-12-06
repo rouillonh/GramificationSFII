@@ -1,0 +1,4 @@
+Camara De Armas,2526357584
+Tripulacion,1234567805
+Navegacion,5264849575
+Motores,4574142565
